@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="btn_ajout">Ajouter</string>
+    <string name="btn_afficher">Afficher</string>
+    <string name="btn_supprimer">Supprimer</string>
+    <string name="btn_homme">Homme</string>
+    <string name="btn_femme">Femme</string>
+    <string name="btn_autre">Autre</string>
+    <string name="txt_info">Informations</string>
+    <string name="txt_prenom">Prenom:</string>
+    <string name="txt_nom">Nom:</string>
+    <string name="txt_age">Age:</string>
+    <string name="txt_genre">Genre:</string>
+    <string name="txt_address">Addresse</string>
+    <string name="txt_no">Numero:</string>
+    <string name="txt_rue">Rue:</string>
+    <string name="txt_codepostal">Code Postal:</string>
+    <string name="txt_ville">Vllle:</string>
+    <string name="txt_email">Email:</string>
+    <string name="txt_edit">Modifier</string>
+    <string-array name="genres">
+        <item>Homme</item>
+        <item>Femme</item>
+        <item>Autre</item>
+    </string-array>
+</resources>
