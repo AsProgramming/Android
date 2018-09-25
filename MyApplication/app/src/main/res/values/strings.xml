@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volontaire</string>alpha1
+    <string name="titre">Trouver un volontaire</string>
+    <string name="button">Trouver</string>
+    <string name="reset">Recommencer</string>
+    <string name="ajout">Ajouter</string>
+    <string name="nom">Nom</string>
+    <string name="vide">Nombres de volontaires: 17</string>
+</resources>
